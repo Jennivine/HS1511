@@ -1,13 +1,6 @@
-/* -----------------------------------
- * COMP1917 | Module 4 | Most Wondrous
- * -----------------------------------
- *
+/*
  * This program find the smallest starting value of a
  * Wondrous Sequence which has length over 1234
- *
- * Writen by Hoang Pham
- * Date 26 March 2015
- *
  */
 
 #include <stdio.h>
